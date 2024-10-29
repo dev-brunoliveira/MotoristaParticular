@@ -46,7 +46,7 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: rgb(20, 107, 220);
+	color: rgb(45, 46, 47);
 }
 
 .cta {
@@ -54,7 +54,7 @@ p {
 	padding: 10px 30px;
 	color: rgb(255, 255, 255);
 	background-color: transparent;
-	border: 2px solid rgb(17, 0, 255);
+	border: 2px solid rgb(45, 46, 47);
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
@@ -64,7 +64,7 @@ p {
 }
 .cta:hover {
 	color: white;
-	background-color: rgb(47, 0, 255);
+	background-color: rgb(45, 46, 47);
 }
 .brand h1 {
 	font-size: 3rem;
@@ -72,7 +72,7 @@ p {
 	color: white;
 }
 .brand h1 span {
-	color: rgb(17, 0, 255);
+	color: rgb(45, 46, 47);
 }
 
 /* Header section */
@@ -144,7 +144,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: rgb(0, 4, 255);
+	color: rgb(45, 46, 47);
 }
 #header .hamburger {
 	height: 60px;
@@ -204,7 +204,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url("https://raw.githubusercontent.com/dev-brunoliveira/MotoristaParticular/refs/heads/main/hero-bg.png");
+	background-image: url("https://raw.githubusercontent.com/dev-brunoliveira/MotoristaParticular/refs/heads/main/hero-bg.jpg");
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -252,7 +252,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: rgb(0, 4, 255);
+	background-color: rgb(45, 46, 47);
 	animation: text_reveal_box 1s ease;
 	animation-delay: 0.5s;
 }
@@ -446,7 +446,7 @@ p {
 	top: 19px;
 	height: 98%;
 	width: 98%;
-	border: 7px solid rgb(17, 0, 255);
+	border: 7px solid rgb(45, 46, 47);
 	z-index: -1;
 }
 /* End About Section */
@@ -564,7 +564,7 @@ p {
 }
 @keyframes text_reveal_name {
 	100% {
-		color: rgb(25, 0, 255);
+		color: rgb(45, 46, 47);
 		font-weight: 500;
 	}
 }
@@ -628,7 +628,7 @@ p {
 		top: 34px;
 		height: 98%;
 		width: 98%;
-		border: 10px solid rgb(4, 0, 255);
+		border: 10px solid rgb(45, 46, 47);
 	}
 	#about .col-right {
 		text-align: left;
